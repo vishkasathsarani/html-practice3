@@ -1,0 +1,44 @@
+/* h1 {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+p{
+    background-color: lightgray;
+}
+
+body {
+    background-color: black;
+} */
+
+.bg-red-h1{
+    background-color: red;
+    color: white;
+    font-family: fantasy;
+}
+
+.bg-blue-h1{
+    background-color: blue;
+    color: white;
+    font-family: fantasy;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 2ch;
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#pg-background{
+    background-color: lightgray;
+}
+
+* {
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+}
